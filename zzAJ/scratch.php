@@ -11,3 +11,12 @@ $data = [
 var_dump($data);
 
 // Output:
+
+
+// =================
+
+// User Data
+
+// Post Data
+
+// Comment Data
