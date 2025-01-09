@@ -20,3 +20,7 @@ var_dump($data);
 // Post Data
 
 // Comment Data
+
+// Categories Data
+
+// Tags Data
