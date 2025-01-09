@@ -25,8 +25,6 @@ Route::middleware('auth')->group(function () {
 });
 
 // ==============================
-Route::get('/hello', function () {
-    return Inertia::render('HelloWorld');
-});
+
 
 require __DIR__ . '/auth.php';
