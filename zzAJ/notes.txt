@@ -1,0 +1,15 @@
+/*
+**	AJ Javadi
+**	Created	1/8/2025
+**	/Users/aj/Herd/laravel-newsfeed/zzAJ/notes.txt
+*/
+
+- Models:
+    - User, Posts, comments
+
+- Pages:
+    - Index, About, FAQ, Posts, Trending, Admin, Topics, Write, Transcribe, newsletter, signup
+
+
+TODO:
+- Web App DCW Form for the application
