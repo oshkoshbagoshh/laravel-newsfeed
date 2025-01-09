@@ -24,4 +24,9 @@ Route::middleware('auth')->group(function () {
     Route::delete('/profile', [ProfileController::class, 'destroy'])->name('profile.destroy');
 });
 
-require __DIR__.'/auth.php';
+// ==============================
+Route::get('/hello', function () {
+    return Inertia::render('HelloWorld');
+});
+
+require __DIR__ . '/auth.php';
