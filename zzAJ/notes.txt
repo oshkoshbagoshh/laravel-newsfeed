@@ -46,3 +46,9 @@ Use database indexes
 Testing
 Copy
 php artisan test
+
+----
+TODO: Laravel Vue Inertia Headless CMS Walkthrough, Database Schema, MySQL, etc.
+
+TODO: set up PHP/ Larastan
+
